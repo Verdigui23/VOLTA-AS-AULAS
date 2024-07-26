@@ -1,0 +1,1 @@
+//Mensage, de boas-vindas ao clicar no botão document.addEventListener('DOMContentLoaded',()=>{const button=document.querySelector('button');button.addEventListener('click',()=>{al
